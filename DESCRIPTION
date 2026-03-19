@@ -1,0 +1,12 @@
+Package: DLabLinguistics
+Title: Analysis of linguistically embeded text components created by the Linguistics Swift package.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Rodney", "Dyer", , "rodney@dyerlab.com", role = c("aut", "cre"))
+Description: This is an analysis package for linguistic data derived from the Dyerlab Linguistics 
+    Swift package.  The purpose of this package is to perform differential analysis of compositional, 
+    natural language, and transformer-based embeddings on components of scientific reserach manuscripts.
+License: `use_mit_license()`
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
